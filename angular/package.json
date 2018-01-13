@@ -1,6 +1,8 @@
 {
   "devDependencies": {
-    "@angular/cli": "^1.6.4"
+    "@angular/cli": "^1.6.4",
+    "@angular/compiler-cli": "^5.2.0",
+    "typescript": "^2.6.2"
   },
   "dependencies": {
     "@angular/core": "^5.2.0"
