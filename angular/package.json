@@ -5,6 +5,7 @@
     "typescript": "^2.6.2"
   },
   "dependencies": {
+    "@angular/compiler": "^5.2.0",
     "@angular/core": "^5.2.0"
   }
 }
